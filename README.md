@@ -127,7 +127,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Web 3.0 / Metaverse and other Emerging Technologies
 [Back to Top](#contents)
-
+**Briefing**: [Metaverse: Opportunities, risks and policy implications (https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/733557/EPRS_BRI(2022)733557_EN.pdf) (EPRS European Parliamentary Research Service, June 2022) Briefing on the metaverse by the EPRS (European Parliamentary Research Service). The paper gives an overview on the EPRS’s perspective on the metaverse and selected policy issues such as competition, data protection, liabilities, financial transactions, cybersecurity, health, accessibility, and inclusiveness as per June 2022. As the metaverse is a multifaceted topic, it is especially important to know and comprehend the perspective of the different stakeholders. In this case the European Parliament. Overall, a very good introduction.  
 ## [Additional categories to add: vendor / provider / solutions / job search sites (cross-link to [Legal Tech Hub](http://legaltechnologyhub.com/)); educational and training programs - CLPs, Centres on Law & Technology, etc.]
 [Back to Top](#contents)
 
