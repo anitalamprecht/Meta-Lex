@@ -127,7 +127,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Web 3.0 / Metaverse and other Emerging Technologies
 [Back to Top](#contents)
+**Book**: [The Metaverse. And How It Will Revolutionize Everything.](https://www.amazon.de/-/en/Matthew-Ball/dp/1324092033/ref=sr_1_1?crid=1P0KVU10XR31Z&keywords=matthew+ball+metaverse&qid=1660281778&sprefix=Matthew+ball%2Caps%2C279&sr=8-1) [(Matthew Ball)] (https://www.matthewball.vc), Liveright Publishing Corporation, July 2022). Matthew Ball is one of the major thought leaders on the topic metaverse. He gives a comprehensive oversight over the origins, defining elements and building blocks as well as outlook of the metaverse. Is it for beginners? Yes and no. It is highly recommendable to turn the abstract into experience and immerse in virtual reality oneself. This way topics such as bandwidth, latency, interoperability, and the value of digital assets become almost selfexplaining. Is it relevant for lawyers? Definitely. The metaverse is not the future. It is already happening. 
 
+ 
 ## [Additional categories to add: vendor / provider / solutions / job search sites (cross-link to [Legal Tech Hub](http://legaltechnologyhub.com/)); educational and training programs - CLPs, Centres on Law & Technology, etc.]
 [Back to Top](#contents)
 
